@@ -1,0 +1,15 @@
+unsorted_boxes = ["large","medium","large","small","small","small","medium","medium","small","large"]
+#Begin problem 1
+small = []
+medium = []
+large = []
+while (len(unsorted_boxes) > 0):
+    current = unsorted_boxes.pop()
+    if current == "small":
+        small.append(current)
+    elif current == "medium":
+        medium.append(current)
+    elif current == "large":
+        large.append(current)
+print(unsorted_boxes , small, medium, large)
+#End problem 1
