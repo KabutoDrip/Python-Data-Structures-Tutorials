@@ -2,7 +2,9 @@
 ## I. Welcome
 * Intro
 * big O basics
+
 ## II. Stacks
+[Stacks Learning Assignment]()
 * What is a stack
 * pros/cons of stacks
 * when to use stacks
@@ -10,7 +12,9 @@
 * problem example to solve
 * answer to problem example
 * conclusion
+
 ## III. Sets
+[Stacks Learning Assignment]()
 * What is a set
 * pros/cons of sets
 * when to use sets
@@ -18,7 +22,9 @@
 * problem example to solve
 * answer to problem example
 * conclusion
+
 ## IV. Trees
+[Stacks Learning Assignment]()
 * What is a tree
 * pros/cons of trees
 * when to use trees
