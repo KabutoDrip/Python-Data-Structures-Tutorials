@@ -24,7 +24,7 @@
 * conclusion
 
 ## IV. Trees
-[Stacks Learning Assignment]()
+[Stacks Learning Assignment](https://github.com/KabutoDrip/Python-Data-Structures-Tutorials/blob/main/Lesson_3_Trees/Tutorial%203.ipynb)
 * What is a tree
 * pros/cons of trees
 * when to use trees
