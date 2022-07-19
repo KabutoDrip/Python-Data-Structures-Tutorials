@@ -4,7 +4,7 @@
 * big O basics
 
 ## II. Stacks
-[Stacks Learning Assignment]()
+[Stacks Learning Assignment](https://github.com/KabutoDrip/Python-Data-Structures-Tutorials/blob/main/Lesson_1_Stacks/Tutorial%201.ipynb)
 * What is a stack
 * pros/cons of stacks
 * when to use stacks
