@@ -14,7 +14,7 @@
 * conclusion
 
 ## III. Sets
-[Stacks Learning Assignment]()
+[Stacks Learning Assignment](https://github.com/KabutoDrip/Python-Data-Structures-Tutorials/blob/main/Lesson_2_Sets/Lesson_1_Stacks/Tutorial%202.ipynb)
 * What is a set
 * pros/cons of sets
 * when to use sets
